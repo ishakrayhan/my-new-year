@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    background-image: url('images/banner/banner1.png');
+    background-repeat:no-repeat ;
+}
+
+.div-container{
+ padding: 192px 229px 388px 845px;
+ text-align: right;
+}
+.div-tittle{
+
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: right;
+    color: #151414;
+    font-family: 'Work Sans';
+}
+.div-p{
+    color: #444343; 
+}
+.btn{
+    text-align: center;
+    font-size: 20px;
+    width: 160px;
+    height: 64px;
+    color: aliceblue;
+    background-color: #F15B22; 
+    border-radius: 5px;  
+    border: none;
+}
+/* section2 */
+.img-div{
+   margin-top: 100px;
+  
+}
+/* part 2 */
+.section-div{
+    display: flex;
+    padding: 100px 200px;
+    gap: 100px;
+}
+
+.section-tittle{
+    margin-top: 200px;
+    padding-left: 180px;
+    margin-bottom: 150px;
+}
+
+
+.main-h2{
+    font-size: 44px;
+}
+.class-h2{
+    text-align: center;
+    font-size: 45px;
+    font-weight: bolder;
+}
+.section-div2{
+    display: flex;
+    margin: 100px 200px;
+    gap: 150px;
+    text-align: center;
+}
+
+.div-png{
+    position: relative;
+    background-image: url('images/watch.png');
+    background-repeat: no-repeat ;
+    background-position: center;
+    text-align: center;
+}
+
+.h1-div{
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.btn-white{
+    font-size: 20px;
+    width: 160px;
+    height: 64px;
+    background-color: aliceblue;
+    color: #F15B22; 
+    border-radius: 5px; 
+    border: none;
+    margin-right: 400px;
+   
+}
+.div-png-p{
+    position: absolute;
+    bottom: 50px;
+    padding-left: 250px;
+   
+}
+
+
+
+.div-footer{
+    display: flex;
+   
+   gap: 100px;
+    background-color: black;
+    padding:  100px 300px;
+ 
+   
+    
+ 
+}
+
+
+.footer-div1{
+    color: aliceblue;
+    margin-right: 300px;
+ 
+}
+
+.footer-div{
+  
+ 
+    top: 50px;
+    color: aliceblue;
+    margin-right: 300px;
+    margin-left: 50px;
+    
+}
+
+
+
+
+
+.int-f{
+    width: 250px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #444343;
+    color: aliceblue;
+    border: 1px solid white;
+    font-size: 12px;
+    text-align: left;
+}
