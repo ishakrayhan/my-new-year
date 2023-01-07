@@ -41,7 +41,7 @@
 .section-div{
     display: flex;
     padding: 100px 200px;
-    gap: 100px;
+    gap: 80px;
 }
 
 .section-tittle{
